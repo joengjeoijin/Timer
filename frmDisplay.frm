@@ -12,6 +12,13 @@ Begin VB.Form frmDisplay
    ScaleMode       =   3  'Pixel
    ScaleWidth      =   313
    StartUpPosition =   3  '´°¿ÚÈ±Ê¡
+   Begin VB.Label lblStart 
+      Height          =   615
+      Left            =   480
+      TabIndex        =   1
+      Top             =   1920
+      Width           =   615
+   End
    Begin VB.Image Image2 
       Height          =   720
       Left            =   2520
